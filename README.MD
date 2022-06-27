@@ -1,11 +1,12 @@
-# Cadastro de Usuario ( DEV RAFAEL AUGUSTO )
+# Cadastro de Usuario ( RAFAEL. A )
 
-##### CADASTRO DE USUÁRIOS API Restful
+##### - CADASTRO DE USUÁRIOS API Restful -
 
-é uma aplicação back-end que contém API Restful. 
-As requisições trabalham com JSON (entrada e saída).
+Desenvolvimento de uma aplicação de cadastro em back-end e contém API Restful.
 
-- FrameWorks utilizados:
+As requisições trabalham com JSON (entrada - saída).
+
+- Frameworks utilizados:
 
 - Java 8, 
 Maven,
