@@ -33,7 +33,7 @@ Para a aplicação executar, execute o clone do mesmo no seguinte comando:
 
 ##### INFORMAÇÕES & REGISTRO
 
-Ao iniciar, é possível realizar um cadastro aleatório;
+Iniciando, é possível realizar um cadastro aleatório;
 
 Ex:
 
