@@ -1,4 +1,4 @@
-package com.formento.cadastro.exception;
+package com.usuario.cadastro.exception;
 
 public class CadastroErrorDefault implements CadastroError {
 
